@@ -1,0 +1,14 @@
+Github
+https://github.com/OlegKov33/Big-Data-Analytics-Coursework
+
+
+Google Colab
+https://colab.research.google.com/github/OlegKov33/Big-Data-Analytics-Coursework/blob/main/Big_Data_Coursework.ipynb
+
+
+Dataset
+https://www.kaggle.com/datasets/utkarshx27/suicide-attempts-in-shandong-china/
+
+
+Paper
+https://www.sciencedirect.com/science/article/pii/S0165032721013768#:~:text=The%20overall%20suicide%20rate%20in,each%20of%20the%2033%20provinces
